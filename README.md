@@ -37,8 +37,8 @@ A simple and interactive web application that allows users to create and manage 
    git clone https://github.com/your-username/repository-name.git
    cd repository-name
    ```
-2. **Open `index.html` in a Web Browser**
-3. **Start Adding Your Bucket List Items!** 🎉
+2. Open `index.html` in a Web Browser
+3. Start Adding Your Bucket List Items!🎉
 
 ## Contributing
 
@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Created with ❤️ by **Atiya Aymen**🔗 GitHub: [your-username](https://github.com/your-username)
+Created with ❤️ by **Atiya Aymen**🔗 GitHub: [atiya0419](https://github.com/atiya0419)
 
 ⭐ **If you like this project, please give it a star on GitHub!** ⭐
 
