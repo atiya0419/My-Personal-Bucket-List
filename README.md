@@ -12,7 +12,7 @@ A simple and interactive web application that allows users to create and manage 
 
 - **Clear List** – Clear the entire list at once.
 
-- **Persistent Storage** – Your bucket list is saved in (localStorage) for future use.
+- **Persistent Storage** – Your bucket list is saved in `localStorage` for future use.
 
 ## Project Structure
 
@@ -30,7 +30,7 @@ A simple and interactive web application that allows users to create and manage 
 
 -CSS3
 
--JavaScript (DOM Manipulation, localStorage)
+-JavaScript (DOM Manipulation, `localStorage`)
 
 ## How to Use
 
