@@ -15,7 +15,7 @@ A simple and interactive web application that allows users to create and manage 
 -**Persistent Storage** – Your bucket list is saved in 'localStorage' for future use.
 
 ## Project Structure
-```
+
 📦 My Personal Bucket List
 
 ├── 📄 index.html   # Main HTML structure
@@ -23,11 +23,13 @@ A simple and interactive web application that allows users to create and manage 
 ├── 🎨 styles.css   # Styling for the application
 
 └── 🎯 script.js    # JavaScript logic for interactivity
-```
+
 ## Technologies Used
 
 -HTML5
+
 -CSS3
+
 -JavaScript (DOM Manipulation, localStorage)
 
 ## How to Use
