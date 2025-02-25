@@ -38,7 +38,8 @@ A simple and interactive web application that allows users to create and manage 
    ```sh
    git clone https://github.com/your-username/repository-name.git
    cd repository-name
-   ``` 2. Open `index.html` in a Web Browser
+   ```
+2. Open `index.html` in a Web Browser
 3. Start Adding Your Bucket List Items!🎉
 
 ## Contributing
