@@ -3,6 +3,7 @@ My Personal Bucket List
 A simple and interactive web application that allows users to create and manage their personal bucket list. The app provides an easy-to-use UI, supports local storage, and enables users to mark completed items.
 
 Features
+
 Add Items – Easily add new items to your bucket list.
 Mark as Completed – Mark items as completed with a single click.
 Delete Items – Remove individual items when completed.
@@ -10,6 +11,7 @@ Clear List – Clear the entire list at once.
 Persistent Storage – Your bucket list is saved in localStorage for future use.
 
 Project Structure
+
 📦 My Personal Bucket List
 ├── 📄 index.html   # Main HTML structure
 ├── 🎨 styles.css   # Styling for the application
