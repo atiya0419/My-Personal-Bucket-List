@@ -4,15 +4,15 @@ A simple and interactive web application that allows users to create and manage 
 
 ## Features
 
--**Add Items** – Easily add new items to your bucket list.
+- **Add Items** – Easily add new items to your bucket list.
 
--**Mark as Completed** – Mark items as completed with a single click.
+- **Mark as Completed** – Mark items as completed with a single click.
 
--**Delete Items** – Remove individual items when completed.
+- **Delete Items** – Remove individual items when completed.
 
--**Clear List** – Clear the entire list at once.
+- **Clear List** – Clear the entire list at once.
 
--**Persistent Storage** – Your bucket list is saved in 'localStorage' for future use.
+- **Persistent Storage** – Your bucket list is saved in (localStorage) for future use.
 
 ## Project Structure
 
@@ -52,7 +52,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Created with ❤️ by **Atiya Aymen**🔗 GitHub: [atiya0419](https://github.com/atiya0419)
+Created with ❤️ by **Atiya Aymen** 🔗 GitHub: [atiya0419](https://github.com/atiya0419)
 
 ⭐ **If you like this project, please give it a star on GitHub!** ⭐
 
